@@ -1,10 +1,10 @@
 @font-face {
   font-family: "roboto";
-  src: url("/roboto-1/Roboto-Regular.ttf") format(truetype);
+  src: url("../../roboto-1/Roboto-Regular.ttf") format(truetype);
 }
 @font-face {
   font-family: "Shrikhand";
-  src: url("/shrikhand/Shrikhand-Regular.otf") format(truetype);
+  src: url("../../shrikhand/Shrikhand-Regular.otf") format(truetype);
 }
 body {
   box-sizing: content-box;
@@ -615,5 +615,3 @@ article {
     width: 450px;
   }
 }
-
-/*# sourceMappingURL=style.css.map */
